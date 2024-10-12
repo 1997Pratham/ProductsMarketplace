@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllElectronics Marketplace", "GreenMarketplace\AllElectronics Marketplace.csproj", "{80194778-A1EC-4333-8D3C-03385896BC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80194778-A1EC-4333-8D3C-03385896BC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80194778-A1EC-4333-8D3C-03385896BC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80194778-A1EC-4333-8D3C-03385896BC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80194778-A1EC-4333-8D3C-03385896BC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3750EFB8-D779-4186-937B-32AD1D90E75C}
+	EndGlobalSection
+EndGlobal
